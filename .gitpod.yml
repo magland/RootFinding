@@ -1,5 +1,5 @@
 tasks:
-  - command: "pip install -r requirements.txt && pip install -e && pip install jupyterlab && jupyter lab --ip=0.0.0.0 --port=8888 --NotebookApp.token=''"
+  - command: "devel/gitpod_init.sh"
 # Ports to expose on workspace startup
 #ports:
 #  - port: 8888
