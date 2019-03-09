@@ -1,0 +1,5 @@
+tasks:
+  - command: "devel/codepod_init.sh"
+# Ports to expose on workspace startup
+#ports:
+#  - port: 8888
